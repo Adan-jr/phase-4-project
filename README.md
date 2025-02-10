@@ -2,7 +2,7 @@
 This is a full-stack Hotel Management System built with Flask (backend) and React (frontend). Users can view available rooms and book them, while admins can manage users and bookings.
 
 ## Resources
--**Deployed links** :[ https://www.loom.com/share/d1c7310b00ec4440b4fe97e2e128ba14?sid=2e558bdb-2410-4fe9-8f80-3486cfa5fd7f] 
+-**VIDEO recording link** :[ https://www.loom.com/share/d1c7310b00ec4440b4fe97e2e128ba14?sid=2e558bdb-2410-4fe9-8f80-3486cfa5fd7f] 
 - **Deployed Frontend**: [Hotel Booking System- Frontend](https://roombooking-self.vercel.app/)
 - **Deployed Backend**: [Hotel Booking System - Backend](https://hotel-booking-system-xvqy.onrender.com)
 
